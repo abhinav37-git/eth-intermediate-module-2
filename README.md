@@ -15,11 +15,11 @@ Start a local Ethereum node by running npx hardhat node in your project director
 This will start a local blockchain network for testing and development purposes
 
 
-"npx hardhat run scripts/deploy.js --server localhost"
+"npx hardhat run scripts/deploy.js --network localhost"
 Deploy your smart contract to the local network by running npx hardhat run scripts/deploy.js --network localhost in your project directory. 
 Make sure you have a deployment script (deploy.js) in the scripts directory that specifies the deployment logic.
 
-"npx run dev"
+"npm run dev"
 Finally, start your development server by running npm run dev in your project directory. 
 This will start your application and make it accessible in your local development environment.
 
@@ -60,4 +60,5 @@ deploy.js code is a script written using the Hardhat framework to compile and de
 10.	If an error occurs, the error is logged, and the script exits with a status code of 1.
 The script compiles and deploys the SimpleContract smart contract using the Hardhat framework.
 
-
+Video walkthrough
+https://www.loom.com/share/0a5d3b04d9544f8db6fdbd61038a676a
