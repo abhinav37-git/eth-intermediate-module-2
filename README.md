@@ -1,4 +1,10 @@
-# eth-intermediate-module-2
+ETH-AVAX INTERMEDIATE 2
+
+Create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application. License This contract is using the MIT License.
+
+Prerequisites Solidity ^0.8.0
+
+Contract Details
 module2 of solidity intermediate
 
 Terminal commands to deploy the contract
